@@ -77,6 +77,7 @@ const API_SITES = {
     senlin: {
         api: 'http://slapibf.com/api.php/provide/vod',
         name: '森林资源',
+        adult: true
     },
     yingku: {
         api: 'http://api.ykapi.net/api.php/provide/vod',
@@ -165,10 +166,12 @@ const API_SITES = {
     haiwaikan1: {
         api: 'http://haiwaikan.com/api.php/provide/vod',
         name: '海外看資源',
+        adult: true
     },
     haiwaikan2: {
         api: 'https://haiwaikan.com/api.php/provide/vod/',
         name: '海外看|点播🪜',
+        adult: true
     },
     sanliuling: {
         api: 'https://360zy.com/api.php/provide/vod/',
@@ -177,6 +180,7 @@ const API_SITES = {
     heimuer: {
         api: 'https://www.heimuer.tv/api.php/provide/vod',
         name: '黑木耳|点播',
+        adult: true
     },
     citong: {
         api: 'http://ys9.cttv.vip/api.php/provide/vod/',
@@ -241,6 +245,7 @@ const API_SITES = {
     baofeng: {
         api: 'https://bfzyapi.com/api.php/provide/vod/',
         name: '暴风|点播',
+        adult: true
     },
     hongniu2: {
         api: 'https://www.hongniuzy2.com/api.php/provide/vod/',
@@ -293,10 +298,12 @@ const API_SITES = {
     piaoling: {
         api: 'https://p2100.net/api.php/provide/vod/',
         name: '飘零|点播',
+        adult: true
     },
     wujin: {
         api: 'https://api.wujinapi.com/api.php/provide/vod/',
         name: '无尽|点播',
+        adult: true
     },
     subo: {
         api: 'https://subocaiji.com/api.php/provide/vod/',
@@ -309,6 +316,7 @@ const API_SITES = {
     zuida: {
         api: 'http://zuidazy.me/api.php/provide/vod/',
         name: '最大|点播',
+        adult: true
     },
     qihu: {
         api: 'https://caiji.qhzyapi.com/api.php/provide/vod/',
