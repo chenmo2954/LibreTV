@@ -23,8 +23,8 @@ const SITE_CONFIG = {
 // API站点配置
 const API_SITES = {
     qiqi: {
-            api: 'https://www.qiqidys.com/api.php/provide/vod',
-            name: '七七资源',
+        api: 'https://www.qiqidys.com/api.php/provide/vod',
+        name: '七七资源',
     },
     hongniu: {
         api: 'http://hongniuzy2.com/api.php/provide/vod/from/hnm3u8',
@@ -176,6 +176,7 @@ const API_SITES = {
     sanliuling: {
         api: 'https://360zy.com/api.php/provide/vod/',
         name: '360|点播',
+        adult: true
     },
     heimuer: {
         api: 'https://www.heimuer.tv/api.php/provide/vod',
